@@ -1,0 +1,21 @@
+{
+  "name": "MiniMoe Meta OS",
+  "short_name": "MiniMoe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "A cyber-aesthetic terminal dashboard interacting with MOMETA MONEY utility tools using Gemini AI for natural language command processing.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23000'/%3E%3Cpath fill='%230f0' d='M96 128h320v256H96z'/%3E%3Cpath fill='%23000' d='M128 160h256v192H128z'/%3E%3Cpath fill='%230f0' d='M160 192h64v32h-64zm0 64h192v32H160zm0 64h128v32H160z'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23000'/%3E%3Cpath fill='%230f0' d='M96 128h320v256H96z'/%3E%3Cpath fill='%23000' d='M128 160h256v192H128z'/%3E%3Cpath fill='%230f0' d='M160 192h64v32h-64zm0 64h192v32H160zm0 64h128v32H160z'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
